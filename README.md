@@ -67,6 +67,7 @@ Basicamente você vai entrar em um menu e escolhe uma funcionalidade dentre as s
  7. Elevador
  8. Funcionário
  9. Sair
+ 
 -------------------MENU JAVA BÁSICO-----------------------
 1. Média das Medias: 
 2. Soma dos ímpares até 30: 
