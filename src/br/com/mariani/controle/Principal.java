@@ -17,7 +17,7 @@ public class Principal {
 
         do {
             try {
-                System.out.println("=================MENU==========="
+                System.out.println("============MENU PRINCIPAL========="
                         + "\n1 Java Básico: "
                         + "\n2 Vetores: "
                         + "\n3 Matrizes: "

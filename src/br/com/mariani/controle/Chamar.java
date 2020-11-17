@@ -29,7 +29,7 @@ public class Chamar {
 
         do {
             try {
-                System.out.println("=================MENU==========="
+                System.out.println("=============MENU LÓGICA======"
                         + "\n1 Média das Medias: "
                         + "\n2 Soma dos ímpares até 30: "
                         + "\n3 Boate: "
@@ -42,7 +42,7 @@ public class Chamar {
                         + "\n10 Calcular Reajuste: "
                         + "\n11 Quantidade de Salário mínimo: "
                         + "\n12 Antecessor e Sucessor: "
-                        + "\n13 Sair: "
+                        + "\n13 Voltar ao Menu Principal: "
                         + "\n=================================");
                 menu = entrada.nextInt();
                 entrada.nextLine();
@@ -104,7 +104,7 @@ public class Chamar {
 
         do {
             try {
-                System.out.println("=================MENU==========="
+                System.out.println("=============MENU VETORES========="
                         + "\n1 Vetor A: "
                         + "\n2 Vetor Reais: "
                         + "\n3 Posição X e Y: "
@@ -115,7 +115,7 @@ public class Chamar {
                         + "\n8 Posição do Maior e Menor: "
                         + "\n9 Teste de igualdade: "
                         + "\n10 Tirar repetidos: "
-                        + "\n11 Sair: "
+                        + "\n11 Voltar ao Menu Principal: "
                         + "\n=================================");
                 menu = entrada.nextInt();
                 entrada.nextLine();
@@ -170,13 +170,13 @@ public class Chamar {
 
         do {
             try {
-                System.out.println("=================MENU==========="
+                System.out.println("=========MENU MATRIZES======"
                         + "\n1 Diagonal: "
                         + "\n2 Multiplicar linha e Coluna: "
                         + "\n3 Retornar Posição do Maior: "
                         + "\n4 Procurar Número: "
                         + "\n5 Jogo da Velha: "
-                        + "\n6 Sair: "
+                        + "\n6 Voltar ao Menu Principal: "
                         + "\n=================================");
                 menu = entrada.nextInt();
                 entrada.nextLine();
